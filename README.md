@@ -5,6 +5,7 @@
 
 ### Supported clouds
 - [x] bashupload.com
+- [ ] envs.sh (telegraph alternative)
 - [x] file.io
 - [x] gofile.io
 - [x] PixelDrain
